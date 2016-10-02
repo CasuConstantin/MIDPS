@@ -1,1 +1,3 @@
 OO ¦O¦OO¦¦¦¦••00+>
+print "hello world"
+x=raw_input("hoho")
